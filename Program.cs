@@ -9,7 +9,7 @@ namespace arbete_talSpel
            Random rand = new Random();
            int guess = 0;
            string hej = "Gissa ett nummer mellan 1 till 100, och du kommer aldrig komma ur det här";
-           int num = rand.Next(1,1000);
+           int num = rand.Next(1,100);
            Console.WriteLine(hej);
 
 
