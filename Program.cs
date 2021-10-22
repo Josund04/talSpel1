@@ -9,13 +9,13 @@ namespace arbete_talSpel
            Random rand = new Random();
            int guess = 0;
            string hej = "Gissa ett nummer mellan 1 till 100, och du kommer aldrig komma ur det här";
-           int num = rand.Next(1,100);
+           int num = rand.Next(1,1000);
            Console.WriteLine(hej);
 
 
            int i = 0;
 
-           while(guess != num)
+           while(guess != num) //denna loopen håller på tills använaren gissat rätt
            {
                try
                {
@@ -23,16 +23,16 @@ namespace arbete_talSpel
 
                    if (guess > num)
                    {
-                       Console.WriteLine("För högt testa igen DIN NOBB");
+                       Console.WriteLine("För högt testa igen");
                    }
                    else
                    {
-                       Console.WriteLine("För lågt försök igen, är du sämst eller?");
+                       Console.WriteLine("För lågt försök igen");
                    }
                }
                catch
                {
-                   Console.WriteLine("aja baja du måste skriva ett nummer inte en bokstav");
+                   Console.WriteLine("Du måste skriva ett nummer inte en bokstav");
                    i--;
                }
                i++;

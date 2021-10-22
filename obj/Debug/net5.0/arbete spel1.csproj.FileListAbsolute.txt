@@ -46,3 +46,19 @@ C:\Users\Admin\Desktop\arbete spel1\obj\Debug\net5.0\arbete spel1.dll
 C:\Users\Admin\Desktop\arbete spel1\obj\Debug\net5.0\ref\arbete spel1.dll
 C:\Users\Admin\Desktop\arbete spel1\obj\Debug\net5.0\arbete spel1.pdb
 C:\Users\Admin\Desktop\arbete spel1\obj\Debug\net5.0\arbete spel1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.dll
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\ref\arbete spel1.dll
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.pdb
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\arbete spel1.exe
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\arbete spel1.deps.json
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\arbete spel1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\arbete spel1.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\arbete spel1.dll
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\ref\arbete spel1.dll
+C:\Users\Admin\Documents\GitHub\talSpel1\bin\Debug\net5.0\arbete spel1.pdb
+C:\Users\Admin\Documents\GitHub\talSpel1\obj\Debug\net5.0\arbete spel1.genruntimeconfig.cache
