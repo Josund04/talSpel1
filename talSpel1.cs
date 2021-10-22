@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; //Close your shit netx time
 
 namespace arbete_talSpel
 {
